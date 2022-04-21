@@ -1,13 +1,15 @@
-# This is the ExpenseTracker Desktop App 
-# Tkinter for GUI
-# SQLite3 for database
-# Matplotlib for data visualization
-# for installing tkcalender --  pip install tkcalender on your terminal
+This is the expense tracker app with 
+1. Tkinter for GUI
+2. SQLite3 for database
+3. Matplotlib for data visualization
+4. tkcalender for date
+5. Pillow for image
+6. Message Box from tkinter
 
-root.ttk.call('lappend', 'auto_path', '/full/path/to/awthemes-9.3.1')
-root.ttk.call('package', 'require', 'awdark')
-https://wiki.tcl-lang.org/page/List+of+ttk+Themes
 
-pillow
+For this project we need to install tkcalendar
+Type pip install tkcalender on your terminal.
+For Pillow pip install Pillow
+For Matplotlib pip install matplotlib
 
 
